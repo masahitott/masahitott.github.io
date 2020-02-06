@@ -1,7 +1,6 @@
 # マサヒトさんがいるらしい
 ここはここがどんなところかテストをする場所です。今のところはなにもありません。
 
-(https://masahitott.github.io/)
-
+[masahitott.github.io](https://masahitott.github.io/)
 
 [リンクのテスト](subpage1.md)
